@@ -1,2 +1,4 @@
 #ignore
 /gesture_data/
+Teacher_model/dataset/
+/mediapipe_env/
